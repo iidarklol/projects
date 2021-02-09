@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background: radial-gradient(#8B008B 0%, #DC143C 100%);
+}
+
+#controller {
+    border-radius: 75px;
+}
+
+p {
+    font-size: 25px;
+}
+#cr7{
+    height: 300px;
+    width: 300px
+}
+.links{
+display: inline;
+padding: 25px;    
+ color: white;
+}
+     
